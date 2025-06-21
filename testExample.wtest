@@ -14,7 +14,7 @@ describe "group of tests for pepita" {
 
   const gim1 = new ClaseDeGimnasia()
 
-  const roque = new Socio(maximoActividades = 2)
+  const roque = new SocioTranquilo(maximoActividades = 2)
 
 
   method initialize() {
